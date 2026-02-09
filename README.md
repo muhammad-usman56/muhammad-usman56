@@ -8,7 +8,7 @@
 
 <p align="center">
   MSc Computer Science • United Kingdom  
-  Web • Mobile • Blockchain • AI Systems
+ • Web • Mobile • Blockchain • AI Systems
 </p>
 
 ---
